@@ -1,0 +1,14 @@
+# dependencies and downloads
+node_modules/
+models/
+bin/
+
+# runtime
+output/
+.work/
+*.part
+
+# local
+.env
+.DS_Store
+npm-debug.log*

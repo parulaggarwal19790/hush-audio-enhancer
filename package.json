@@ -1,0 +1,29 @@
+{
+  "name": "hush",
+  "version": "1.0.0",
+  "description": "Drop in noisy videos or voice notes, get clean, trimmed, mastered audio back. Runs locally.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "audio",
+    "denoise",
+    "noise-reduction",
+    "whisper",
+    "deepfilternet",
+    "voice",
+    "podcast",
+    "ffmpeg"
+  ],
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs --no-open",
+    "setup": "node scripts/setup.mjs"
+  },
+  "engines": {
+    "node": ">=22.2"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.2"
+  }
+}
