@@ -5,12 +5,16 @@ named after what is said in it.
 
 Everything runs on your machine: no accounts, no uploads, no API keys.
 
+![Hush Audio Enhancer: drop zone and the five processing settings](docs/screenshots/home.png)
+
 - **Denoise** with a built-in spectral filter, or the neural
   [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) engine
 - **Trim** dead air at the edges, and optionally long pauses
 - **Master** with EQ, de-essing, compression and loudness normalisation
 - **Name** each file after its opening words, transcribed locally with Whisper
 - **Compare** raw and clean audio with one key while it plays
+
+![Three processed takes, each named after its first words, with raw and clean waveforms and before/after stats](docs/screenshots/takes.png)
 
 ## Requirements
 
