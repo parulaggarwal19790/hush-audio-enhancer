@@ -1,7 +1,7 @@
 {
-  "name": "hush",
+  "name": "hush-audio-enhancer",
   "version": "1.0.0",
-  "description": "Drop in noisy videos or voice notes, get clean, trimmed, mastered audio back. Runs locally.",
+  "description": "Hush Audio Enhancer: drop in noisy videos or voice notes, get clean, trimmed, mastered audio back. Runs locally.",
   "license": "MIT",
   "private": true,
   "type": "module",

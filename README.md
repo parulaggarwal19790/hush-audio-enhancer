@@ -1,4 +1,4 @@
-# hush
+# Hush Audio Enhancer
 
 Drop in noisy videos or voice notes, get clean, trimmed, mastered audio back,
 named after what is said in it.
@@ -26,8 +26,8 @@ Everything runs on your machine: no accounts, no uploads, no API keys.
 ## Quick start
 
 ```sh
-git clone https://github.com/<you>/hush.git
-cd hush
+git clone https://github.com/parulaggarwal19790/hush-audio-enhancer.git
+cd hush-audio-enhancer
 npm install
 npm run setup   # optional: installs the neural denoiser
 npm start
